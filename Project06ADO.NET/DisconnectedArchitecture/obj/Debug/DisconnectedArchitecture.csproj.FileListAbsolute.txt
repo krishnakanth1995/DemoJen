@@ -1,0 +1,7 @@
+B:\office\c#\Day07\Project06ADO.NET\DisconnectedArchitecture\bin\Debug\DisconnectedArchitecture.exe.config
+B:\office\c#\Day07\Project06ADO.NET\DisconnectedArchitecture\bin\Debug\DisconnectedArchitecture.exe
+B:\office\c#\Day07\Project06ADO.NET\DisconnectedArchitecture\bin\Debug\DisconnectedArchitecture.pdb
+B:\office\c#\Day07\Project06ADO.NET\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.csprojAssemblyReference.cache
+B:\office\c#\Day07\Project06ADO.NET\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.csproj.CoreCompileInputs.cache
+B:\office\c#\Day07\Project06ADO.NET\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.exe
+B:\office\c#\Day07\Project06ADO.NET\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.pdb

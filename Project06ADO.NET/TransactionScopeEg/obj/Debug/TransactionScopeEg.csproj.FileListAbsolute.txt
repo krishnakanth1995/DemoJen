@@ -1,0 +1,7 @@
+B:\office\c#\Day07\Project06ADO.NET\TransactionScopeEg\bin\Debug\TransactionScopeEg.exe.config
+B:\office\c#\Day07\Project06ADO.NET\TransactionScopeEg\bin\Debug\TransactionScopeEg.exe
+B:\office\c#\Day07\Project06ADO.NET\TransactionScopeEg\bin\Debug\TransactionScopeEg.pdb
+B:\office\c#\Day07\Project06ADO.NET\TransactionScopeEg\obj\Debug\TransactionScopeEg.csprojAssemblyReference.cache
+B:\office\c#\Day07\Project06ADO.NET\TransactionScopeEg\obj\Debug\TransactionScopeEg.csproj.CoreCompileInputs.cache
+B:\office\c#\Day07\Project06ADO.NET\TransactionScopeEg\obj\Debug\TransactionScopeEg.exe
+B:\office\c#\Day07\Project06ADO.NET\TransactionScopeEg\obj\Debug\TransactionScopeEg.pdb

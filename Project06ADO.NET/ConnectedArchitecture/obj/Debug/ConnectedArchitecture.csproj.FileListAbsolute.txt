@@ -1,0 +1,7 @@
+B:\office\c#\Day07\Project06ADO.NET\ConnectedArchitecture\bin\Debug\ConnectedArchitecture.exe.config
+B:\office\c#\Day07\Project06ADO.NET\ConnectedArchitecture\bin\Debug\ConnectedArchitecture.exe
+B:\office\c#\Day07\Project06ADO.NET\ConnectedArchitecture\bin\Debug\ConnectedArchitecture.pdb
+B:\office\c#\Day07\Project06ADO.NET\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.csprojAssemblyReference.cache
+B:\office\c#\Day07\Project06ADO.NET\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.csproj.CoreCompileInputs.cache
+B:\office\c#\Day07\Project06ADO.NET\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.exe
+B:\office\c#\Day07\Project06ADO.NET\ConnectedArchitecture\obj\Debug\ConnectedArchitecture.pdb
